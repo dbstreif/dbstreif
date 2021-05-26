@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Dom13377/Dom13377** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
