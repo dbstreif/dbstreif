@@ -1,4 +1,4 @@
-**Hi there, Im Dom13377 👋**
+###Hi there, Im Dom13377 👋
 
 - 🔭 I’m currently working on a QT project for a small startup
 - 🌱 I’m currently learning Golang
