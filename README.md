@@ -6,4 +6,4 @@ Hello I'm Dom
 - 📫 How to reach me: Discord: Exonerated#9784
 - ⚡ Fun fact: The factorical of 0 is 1
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dom13377)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dom13377)]
