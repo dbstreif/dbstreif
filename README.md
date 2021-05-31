@@ -1,6 +1,6 @@
 ### Hi there, Im Dom 👋
 
-- 🔭 I’m currently working on a QT project for a small startup
+- 🔭 I’m currently working on Grim Crypter
 - 🌱 I’m currently learning Golang
 - 💬 Ask me about my repositories
 - 📫 How to reach me: Discord: Exonerated#9784
