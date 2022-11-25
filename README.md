@@ -1,7 +1,7 @@
 ### Hi there, Im Dom 👋
 
-- 🔭 I’m currently working on Grim Crypter
-- 🌱 I’m currently learning Golang
+- 🔭 I’m currently working on my AP Project
+- 🌱 I’m currently learning Java
 - 💬 Ask me about my repositories
 - 📫 How to reach me: Discord: Stallion#3481
 - ⚡ Fun fact: The factorical of 0 is 1
