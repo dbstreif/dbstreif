@@ -1,4 +1,4 @@
-### Hi there, Im Dom 👋
+### Hi there, I'm Dom 👋
 
 - 🔭 I’m currently working on PicoCTF challenges
 - 🌱 I’m currently learning C
