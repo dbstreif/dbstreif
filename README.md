@@ -1,6 +1,6 @@
 ### Hi there, I'm Dom 👋
 
-- 🔭 I’m currently working on PicoCTF challenges
+- 🔭 I’m currently making a Minecraft Horror Mod
 - 🌱 I’m currently learning C
 - 💬 Ask me about my repositories
 - 📫 How to reach me: Discord: torvz, LinkedIn: https://www.linkedin.com/in/dominic-streif-540a99294
