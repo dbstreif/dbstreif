@@ -1,7 +1,7 @@
 ### Hi there, I'm Dom 👋
 
 - 🔭 I’m currently making a Minecraft Horror Mod
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning Rust
 - 💬 Ask me about my repositories
 - 📫 How to reach me: Discord: torvz, LinkedIn: https://www.linkedin.com/in/dominic-streif-540a99294
 - ⚡ Calpoly SLO 2027
